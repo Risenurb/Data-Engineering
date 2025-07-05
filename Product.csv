@@ -1,0 +1,278 @@
+Product_ID,Product_Name,Model_ID,Model_Name,Last_History_Date
+BMW,BMW,BMW-M1,X3,01/07/2024
+BMW,BMW,BMW-M2,X4,02/07/2024
+BMW,BMW,BMW-M3,X5,03/07/2024
+BMW,BMW,BMW-M4,X6,04/07/2024
+BMW,BMW,BMW-M5,X7,05/07/2024
+Mer,Mercedes-Benz,Mer-M6,C-Class,06/07/2024
+Mer,Mercedes-Benz,Mer-M7,GLE-Class,07/07/2024
+Mer,Mercedes-Benz,Mer-M8,GLS-Class,08/07/2024
+Dod,Dodge,Dod-M9,Durango,09/07/2024
+Jee,Jeep,Jee-M10,Cherokee,10/07/2024
+Jee,Jeep,Jee-M11,Gladiator,11/07/2024
+Jee,Jeep,Jee-M12,Grand Cherokee,12/07/2024
+Jee,Jeep,Jee-M13,Wrangler,13/07/2024
+Ram,Ram,Ram-M14,1500,14/07/2024
+Ram,Ram,Ram-M15,1500 Classic,15/07/2024
+For,Ford,For-M16,Bronco,16/07/2024
+For,Ford,For-M17,Escape,17/07/2024
+For,Ford,For-M18,Expedition,18/07/2024
+For,Ford,For-M19,Expedition MAX,19/07/2024
+For,Ford,For-M20,Explorer,20/07/2024
+For,Ford,For-M21,F-150,21/07/2024
+For,Ford,For-M22,,22/07/2024
+For,Ford,For-M23,Mustang,23/07/2024
+For,Ford,For-M24,Ranger,24/07/2024
+For,Ford,For-M25,Super Duty,25/07/2024
+For,Ford,For-M26,Transit,26/07/2024
+Lin,Lincoln,Lin-M27,Aviator,27/07/2024
+Lin,Lincoln,Lin-M28,Continental,28/07/2024
+Lin,Lincoln,Lin-M29,Corsair,29/07/2024
+Lin,Lincoln,Lin-M30,Navigator,30/07/2024
+Bui,Buick,Bui-M31,Enclave,31/07/2024
+Cad,Cadillac,Cad-M32,CT4,01/08/2024
+Cad,Cadillac,Cad-M33,CT5,02/08/2024
+Cad,Cadillac,Cad-M34,CT6,03/08/2024
+Cad,Cadillac,Cad-M35,Escalade,04/08/2024
+Cad,Cadillac,Cad-M36,Escalade ESV,05/08/2024
+Cad,Cadillac,Cad-M37,XT4,06/08/2024
+Cad,Cadillac,Cad-M38,XT5,07/08/2024
+Cad,Cadillac,Cad-M39,XT6,08/08/2024
+Che,Chevrolet,Che-M40,Bolt,09/08/2024
+Che,Chevrolet,Che-M41,Camaro,10/08/2024
+Che,Chevrolet,Che-M42,Colorado,11/08/2024
+Che,Chevrolet,Che-M43,Corvette,12/08/2024
+Che,Chevrolet,Che-M44,Express,13/08/2024
+Che,Chevrolet,Che-M45,Malibu,14/08/2024
+Che,Chevrolet,Che-M46,Silverado,15/08/2024
+Che,Chevrolet,Che-M47,,16/08/2024
+Che,Chevrolet,Che-M48,Sonic,17/08/2024
+Che,Chevrolet,Che-M49,Suburban,18/08/2024
+Che,Chevrolet,Che-M50,Tahoe,19/08/2024
+Che,Chevrolet,Che-M51,Traverse,20/08/2024
+GMC,GMC,GMC-M52,Acadia,21/08/2024
+GMC,GMC,GMC-M53,Canyon,22/08/2024
+GMC,GMC,GMC-M54,Savana,23/08/2024
+GMC,GMC,GMC-M55,Sierra,24/08/2024
+GMC,GMC,GMC-M56,,25/08/2024
+GMC,GMC,GMC-M57,Yukon,26/08/2024
+GMC,GMC,GMC-M58,Yukon XL,27/08/2024
+Acu,Acura,Acu-M59,ILX,28/08/2024
+Acu,Acura,Acu-M60,MDX,29/08/2024
+Acu,Acura,Acu-M61,NSX,30/08/2024
+Acu,Acura,Acu-M62,RDX,31/08/2024
+Acu,Acura,Acu-M63,TLX,01/09/2024
+Hon,Honda,Hon-M64,Accord,02/09/2024
+Hon,Honda,Hon-M65,Civic,03/09/2024
+Hon,Honda,Hon-M66,CR-V,04/09/2024
+Hon,Honda,Hon-M67,Insight,05/09/2024
+Hon,Honda,Hon-M68,Odyssey,06/09/2024
+Hon,Honda,Hon-M69,Passport,07/09/2024
+Hon,Honda,Hon-M70,Pilot,08/09/2024
+Hon,Honda,Hon-M71,Ridgeline,09/09/2024
+Hyu,Hyundai,Hyu-M72,Elantra,10/09/2024
+Hyu,Hyundai,Hyu-M73,Santa Fe,11/09/2024
+Hyu,Hyundai,Hyu-M74,,12/09/2024
+Hyu,Hyundai,Hyu-M75,Sonata,13/09/2024
+Kia,Kia,Kia-M76,Optima,14/09/2024
+Kia,Kia,Kia-M77,Sorento,15/09/2024
+Kia,Kia,Kia-M78,Telluride,16/09/2024
+Inf,Infiniti,Inf-M79,QX60,17/09/2024
+Nis,Nissan,Nis-M80,Altima,18/09/2024
+Nis,Nissan,Nis-M81,,19/09/2024
+Nis,Nissan,Nis-M82,Frontier,20/09/2024
+Nis,Nissan,Nis-M83,Leaf,21/09/2024
+Nis,Nissan,Nis-M84,Maxima,22/09/2024
+Nis,Nissan,Nis-M85,Murano,23/09/2024
+Nis,Nissan,Nis-M86,NV,24/09/2024
+Nis,Nissan,Nis-M87,Pathfinder,25/09/2024
+Nis,Nissan,Nis-M88,Rogue,26/09/2024
+Nis,Nissan,Nis-M89,Titan,27/09/2024
+Riv,Rivian,Riv-M90,R1S,28/09/2024
+Riv,Rivian,Riv-M91,R1T,29/09/2024
+Sub,Subaru,Sub-M92,Ascent,30/09/2024
+Sub,Subaru,Sub-M93,Impreza,01/10/2024
+Sub,Subaru,Sub-M94,Legacy,02/10/2024
+Sub,Subaru,Sub-M95,Outback,03/10/2024
+Tes,Tesla,Tes-M96,Model 3,04/10/2024
+Tes,Tesla,Tes-M97,Model S,05/10/2024
+Tes,Tesla,Tes-M98,Model X,06/10/2024
+Lex,Lexus,Lex-M99,ES,07/10/2024
+Toy,Toyota,Toy-M100,Avalon,08/10/2024
+Toy,Toyota,Toy-M101,Camry,09/10/2024
+Toy,Toyota,Toy-M102,Corolla,10/10/2024
+Toy,Toyota,Toy-M103,Highlander,11/10/2024
+Toy,Toyota,Toy-M104,Sequoia,12/10/2024
+Toy,Toyota,Toy-M105,Sienna,13/10/2024
+Toy,Toyota,Toy-M106,Tacoma,14/10/2024
+Toy,Toyota,Toy-M107,Tundra,15/10/2024
+Vol,Volkswagen,Vol-M108,Atlas,16/10/2024
+Vol,Volkswagen,Vol-M109,Passat,17/10/2024
+Vol,Volvo,Vol-M110,S60,18/10/2024
+Agr,Agrale,Agr-M111,A7500,19/10/2024
+Agr,Agrale,Agr-M112,A8700,20/10/2024
+Agr,Agrale,Agr-M113,A10000,21/10/2024
+Che,Chevrolet,Che-M114,Cruze,22/10/2024
+Cit,Citroën,Cit-M115,C4L,23/10/2024
+Cit,Citroën,Cit-M116,Berlingo,24/10/2024
+Fia,Fiat,Fia-M117,Palio,25/10/2024
+Fia,Fiat,Fia-M118,Cronos,26/10/2024
+For,Ford,For-M119,Focus,27/10/2024
+Hon,Honda,Hon-M120,HR-V,28/10/2024
+Mer,Mercedes-Benz,Mer-M121,Sprinter,29/10/2024
+Mer,Mercedes-Benz,Mer-M122,Vito,30/10/2024
+Mer,Mercedes-Benz,Mer-M123,X-Class,31/10/2024
+Peu,Peugeot,Peu-M124,308,01/11/2024
+Peu,Peugeot,Peu-M125,408,02/11/2024
+Peu,Peugeot,Peu-M126,Partner,03/11/2024
+Ren,Renault,Ren-M127,Alaskan,04/11/2024
+Ren,Renault,Ren-M128,Kangoo,05/11/2024
+Ren,Renault,Ren-M129,Dokker,06/11/2024
+Ren,Renault,Ren-M130,Sandero,07/11/2024
+Ren,Renault,Ren-M131,Logan,08/11/2024
+Ren,Renault,Ren-M132,Fluence,09/11/2024
+Toy,Toyota,Toy-M133,Hilux,10/11/2024
+Toy,Toyota,Toy-M134,Hilux SW4,11/11/2024
+Vol,Volkswagen,Vol-M135,Suran,12/11/2024
+Vol,Volkswagen,Vol-M136,Amarok,13/11/2024
+Mar,Maruti Suzuki,Mar-M137,Baleno,14/11/2024
+Mar,Maruti Suzuki,Mar-M138,Ertiga,15/11/2024
+Mar,Maruti Suzuki,Mar-M139,Swift,16/11/2024
+Mar,Maruti Suzuki,Mar-M140,Vitara Brezza,17/11/2024
+Mar,Maruti Suzuki,Mar-M141,Wagon R,18/11/2024
+Mar,Maruti Suzuki,Mar-M142,Alto,19/11/2024
+Mar,Maruti Suzuki,Mar-M143,Dzire,20/11/2024
+Mar,Maruti Suzuki,Mar-M144,S-Presso,21/11/2024
+Mar,Maruti Suzuki,Mar-M145,XL6,22/11/2024
+Mar,Maruti Suzuki,Mar-M146,Alto K10,23/11/2024
+Mar,Maruti Suzuki,Mar-M147,Celerio,24/11/2024
+Mar,Maruti Suzuki,Mar-M148,S-Corss,25/11/2024
+Mar,Maruti Suzuki,Mar-M149,Ciaz,26/11/2024
+Mar,Maruti Suzuki,Mar-M150,Eeco,27/11/2024
+Mar,Maruti Suzuki,Mar-M151,Ignis,28/11/2024
+Mar,Maruti Suzuki,Mar-M152,Celerio X,29/11/2024
+Hyu,Hyundai,Hyu-M153,Elite i20,30/11/2024
+Hyu,Hyundai,Hyu-M154,Venue,01/12/2024
+Hyu,Hyundai,Hyu-M155,Creta,02/12/2024
+Hyu,Hyundai,Hyu-M156,Verna,03/12/2024
+Hyu,Hyundai,Hyu-M157,Santro,04/12/2024
+Hyu,Hyundai,Hyu-M158,Grand i10 Nios,05/12/2024
+Hyu,Hyundai,Hyu-M159,Grand i10,06/12/2024
+Hyu,Hyundai,Hyu-M160,Xcent,07/12/2024
+Hyu,Hyundai,Hyu-M161,i20 Active,08/12/2024
+Hyu,Hyundai,Hyu-M162,Tucson,09/12/2024
+Hyu,Hyundai,Hyu-M163,Kona Electric,10/12/2024
+Hyu,Hyundai,Hyu-M164,Aura,11/12/2024
+Mah,Mahindra,Mah-M165,Scorpio,12/12/2024
+Mah,Mahindra,Mah-M166,Bolero,13/12/2024
+Mah,Mahindra,Mah-M167,XUV300,14/12/2024
+Mah,Mahindra,Mah-M168,XUV500,15/12/2024
+Mah,Mahindra,Mah-M169,Marazzo,16/12/2024
+Mah,Mahindra,Mah-M170,TUV300,17/12/2024
+Mah,Mahindra,Mah-M171,TUV300 Plus,18/12/2024
+Mah,Mahindra,Mah-M172,Thar,19/12/2024
+Mah,Mahindra,Mah-M173,KUV100 NXT,20/12/2024
+Mah,Mahindra,Mah-M174,Alturas G4,21/12/2024
+Mah,Mahindra,Mah-M175,Xylo,22/12/2024
+Mah,Mahindra,Mah-M176,E2o Plus,23/12/2024
+Mah,Mahindra,Mah-M177,Verito,24/12/2024
+Mah,Mahindra,Mah-M178,Verito Vibe CS,25/12/2024
+Tat,Tata,Tat-M179,Nexon,26/12/2024
+Tat,Tata,Tat-M180,Harrier,27/12/2024
+Tat,Tata,Tat-M181,Tiago,28/12/2024
+Tat,Tata,Tat-M182,Tigor,29/12/2024
+Tat,Tata,Tat-M183,Hexa,30/12/2024
+Tat,Tata,Tat-M184,Safari Storme,31/12/2024
+Tat,Tata,Tat-M185,Zest,01/01/2025
+Tat,Tata,Tat-M186,Nano,02/01/2025
+Tat,Tata,Tat-M187,Bolt,03/01/2025
+Tat,Tata,Tat-M188,Tiago NRG,04/01/2025
+Tat,Tata,Tat-M189,Tiago JTP,05/01/2025
+Tat,Tata,Tat-M190,Nano GenX,06/01/2025
+Tat,Tata,Tat-M191,Tigor JTP,07/01/2025
+Tat,Tata,Tat-M192,Tigor EV,08/01/2025
+Tat,Tata,Tat-M193,Altroz,09/01/2025
+Tat,Tata,Tat-M194,Gravitas,10/01/2025
+Toy,Toyota,Toy-M195,Innova Crysta,11/01/2025
+Toy,Toyota,Toy-M196,Glanza,12/01/2025
+Toy,Toyota,Toy-M197,Fortuner,13/01/2025
+Toy,Toyota,Toy-M198,Etios Liva,14/01/2025
+Toy,Toyota,Toy-M199,Platinum Etios,15/01/2025
+Toy,Toyota,Toy-M200,Yaris,16/01/2025
+Toy,Toyota,Toy-M201,Corolla Altis,17/01/2025
+Toy,Toyota,Toy-M202,Etios Cross,18/01/2025
+Toy,Toyota,Toy-M203,Land Cruiser,19/01/2025
+Toy,Toyota,Toy-M204,Land Cruiser Prado,20/01/2025
+Toy,Toyota,Toy-M205,Prius,21/01/2025
+Toy,Toyota,Toy-M206,Vellfire,22/01/2025
+Ren,Renault,Ren-M207,Duster,23/01/2025
+Ren,Renault,Ren-M208,Capture,24/01/2025
+Ren,Renault,Ren-M209,Lodgy,25/01/2025
+Ren,Renault,Ren-M210,Kwid,26/01/2025
+Ren,Renault,Ren-M211,Triber,27/01/2025
+Kia,Kia,Kia-M212,Seltos,28/01/2025
+Kia,Kia,Kia-M213,Carnival,29/01/2025
+Kia,Kia,Kia-M214,Rio,30/01/2025
+Hon,Honda,Hon-M215,Amaze,31/01/2025
+Hon,Honda,Hon-M216,City,01/02/2025
+Hon,Honda,Hon-M217,WR-V,02/02/2025
+Hon,Honda,Hon-M218,Jazz,03/02/2025
+Hon,Honda,Hon-M219,Brio,04/02/2025
+Hon,Honda,Hon-M220,BR-V,05/02/2025
+For,Ford,For-M221,Ecosport,06/02/2025
+For,Ford,For-M222,Endeavour,07/02/2025
+For,Ford,For-M223,Frigo,08/02/2025
+For,Ford,For-M224,Aspire,09/02/2025
+For,Ford,For-M225,Freestyle,10/02/2025
+For,Ford,For-M226,Kuga,11/02/2025
+Aud,Audi,Aud-M227,A4,12/02/2025
+Aud,Audi,Aud-M228,A6,13/02/2025
+Aud,Audi,Aud-M229,A3,14/02/2025
+Aud,Audi,Aud-M230,Q3,15/02/2025
+Aud,Audi,Aud-M231,Q7,16/02/2025
+Aud,Audi,Aud-M232,Q5,17/02/2025
+Aud,Audi,Aud-M233,R8,18/02/2025
+Aud,Audi,Aud-M234,A3 Cabriolet,19/02/2025
+Aud,Audi,Aud-M235,A5,20/02/2025
+Aud,Audi,Aud-M236,A5 Cabriolet,21/02/2025
+Aud,Audi,Aud-M237,RS5,22/02/2025
+Aud,Audi,Aud-M238,RS7 Sportback,23/02/2025
+Aud,Audi,Aud-M239,Q8,24/02/2025
+Aud,Audi,Aud-M240,E-Tron,25/02/2025
+Aud,Audi,Aud-M241,Q2,26/02/2025
+BMW,BMW,BMW-M242,3 Series,27/02/2025
+BMW,BMW,BMW-M243,X1,28/02/2025
+BMW,BMW,BMW-M244,5 Series,01/03/2025
+BMW,BMW,BMW-M245,7 Series,02/03/2025
+BMW,BMW,BMW-M246,Z4,03/03/2025
+BMW,BMW,BMW-M247,3 Series GT,04/03/2025
+BMW,BMW,BMW-M248,6 Series GT,05/03/2025
+BMW,BMW,BMW-M249,M5,06/03/2025
+BMW,BMW,BMW-M250,M2,07/03/2025
+MG,MG,MG-M251,Hector,08/03/2025
+MG,MG,MG-M252,ZS EV,09/03/2025
+Jee,Jeep,Jee-M253,Compass,10/03/2025
+Jee,Jeep,Jee-M254,Renegade,11/03/2025
+Vol,Volkswagen,Vol-M255,Polo,12/03/2025
+Vol,Volkswagen,Vol-M256,Vento,13/03/2025
+Vol,Volkswagen,Vol-M257,Ameo,14/03/2025
+Vol,Volkswagen,Vol-M258,Tiguan,15/03/2025
+Vol,Volkswagen,Vol-M259,T-Roc,16/03/2025
+Vol,Volkswagen,Vol-M260,T-Cross,17/03/2025
+Nis,Nissan,Nis-M261,Sunny,18/03/2025
+Nis,Nissan,Nis-M262,Micra,19/03/2025
+Nis,Nissan,Nis-M263,Kicks,20/03/2025
+Nis,Nissan,Nis-M264,Terrano,21/03/2025
+Nis,Nissan,Nis-M265,Micra-Active,22/03/2025
+Nis,Nissan,Nis-M266,GT-R,23/03/2025
+Nis,Nissan,Nis-M267,Leaf EV,24/03/2025
+Nis,Nissan,Nis-M268,Go,25/03/2025
+Nis,Nissan,Nis-M269,Go Plus,26/03/2025
+Nis,Nissan,Nis-M270,Redi Go,27/03/2025
+Sko,Skoda,Sko-M271,Rapid,28/03/2025
+Sko,Skoda,Sko-M272,Octavia,29/03/2025
+Sko,Skoda,Sko-M273,Kodiaq,30/03/2025
+Sko,Skoda,Sko-M274,Superb,31/03/2025
+Mit,Mitsubishi,Mit-M275,Pajero Sport,01/04/2025
+Mit,Mitsubishi,Mit-M276,Outlander,02/04/2025
+Mit,Mitsubishi,Mit-M277,Montero,03/04/2025
